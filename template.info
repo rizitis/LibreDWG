@@ -1,8 +1,8 @@
 PRGNAM="LibreDWG"
 VERSION="0.12.5"
 HOMEPAGE="https://www.gnu.org/software/libredwg/"
-DOWNLOAD_x86_64="https://ftp.gnu.org/gnu/libredwg/libredwg-0.12.5.tar.gz
+DOWNLOAD_x86_64="https://ftp.gnu.org/gnu/libredwg/libredwg-0.12.5.tar.gz"
 MD5SUM_x86_64="cbef6e83f3631c31ff2cbce23c77fac9"
 REQUIRES="slibtool"
 MAINTAINER="Ioannis Anagnostakis"
-EMAIL='rizitis@gmail.com"
+EMAIL="rizitis@gmail.com"
