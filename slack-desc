@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+        |-----handy-ruler---------------------------------------------------|
+LibreDWG: LibreDWG free implementation of the DWG file forma
+LibreDWG:
+LibreDWG: LibreDWG is a free C library to read and write DWG files.
+LibreDWG: LibreDWG is a fork from LibDWG due to its usage of Esperanto,
+LibreDWG: which we think is not the best strategy for a free software project
+LibreDWG: which aims to get lots of contributors.
+LibreDWG: The strings API is utf8 and encodes to the internal 8-bitor or UCS-2
+LibreDWG:
+LibreDWG: This program is licensed under the terms of the GNU General 
+LibreDWG: under the terms of the GNU General Public License version 3
+LibreDWG:
